@@ -1,1 +1,4 @@
-# Mafia-Bird-2
+# Mafia-Bird
+
+A Game inspired by legendary Flappy Bird
+
